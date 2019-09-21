@@ -4,7 +4,7 @@ Movie Recommendation System using TMDB 5000 Movie Dataset. It is also used to pr
 ![movie_recommendation jpg](https://user-images.githubusercontent.com/55571522/65369433-4e4faf80-dc6a-11e9-913d-65bedf0f7bbb.jpg)
 
 
-Three types of recommender system are used:
+# Three types of recommender system are used:
  # Demographic Filtering:
  ![demographic](https://user-images.githubusercontent.com/55571522/65369462-bb634500-dc6a-11e9-96b5-1d478a52bfc8.jpeg)
 
@@ -17,6 +17,16 @@ Three types of recommender system are used:
  ![collaborative](https://user-images.githubusercontent.com/55571522/65369485-34629c80-dc6b-11e9-8333-d321aead184a.png)
 
  This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
+ 
+ # Output:
+ <img width="334" alt="Capture1" src="https://user-images.githubusercontent.com/55571522/65370422-1f3f3b00-dc76-11e9-96cc-233cd835a535.png">
+
+<img width="250" alt="Capture2" src="https://user-images.githubusercontent.com/55571522/65370429-2fefb100-dc76-11e9-8bc2-e396f0b1e7b3.png">
+
+<img width="306" alt="Capture3" src="https://user-images.githubusercontent.com/55571522/65370430-4138bd80-dc76-11e9-8cba-72c295c1c97f.png">
+
+<img width="339" alt="Capture4" src="https://user-images.githubusercontent.com/55571522/65370446-4e55ac80-dc76-11e9-892c-dc1cd200cc3d.png">
+
  
  
  
