@@ -179,6 +179,6 @@ svd.fit(trainset)
 
 ratings(ratings["userId"]==1)
 
-svd.predict(1,302,3)
+svd.predict(2,303,4)
 
 
